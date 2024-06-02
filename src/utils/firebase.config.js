@@ -5,12 +5,12 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAWCFqXdcrUda4aq78vGwBZjnTNd7S40hs",
+  apiKey: "",
   authDomain: "meesho-webapp.firebaseapp.com",
   projectId: "meesho-webapp",
   storageBucket: "meesho-webapp.appspot.com",
   messagingSenderId: "1045277792411",
-  appId: "1:1045277792411:web:cc7144f54ed4de3640ce3e"
+  appId: ""
 };
 
 // Initialize Firebase
